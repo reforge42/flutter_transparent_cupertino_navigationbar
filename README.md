@@ -4,10 +4,8 @@ A Transparent Cupertino NavigationBar.
 
 # Example
 
-<figure class="third">
-    <img src="https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage1.png">
-    <img src="https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage2.png">
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage1.png"  width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage2.png" width="200" height="260" ></div>
 ![image](https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage1.png)
 ![image](https://github.com/reforge42/flutter_transparent_cupertino_navigationbar/blob/master/image/exampleImage2.png)
 
