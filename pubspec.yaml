@@ -1,8 +1,9 @@
 name: transparent_cupertino_navigationbar
 description: A new Flutter package project.
 version: 0.0.1
-author:
+author: JamesD
 homepage:
+https://github.com/reforge42/flutter_transparent_cupertino_navigationbar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
