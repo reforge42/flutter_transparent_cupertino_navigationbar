@@ -1,6 +1,6 @@
 # transparent_cupertino_navigationbar
 
-A new Flutter package project.
+A Transparent Cupertino NavigationBar.
 
 ## Getting Started
 
