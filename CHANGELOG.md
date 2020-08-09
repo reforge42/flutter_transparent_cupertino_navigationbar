@@ -4,4 +4,7 @@
 ## [0.0.2] - TODO: update README.md
 
 ## [0.0.3] - TODO: update README.md
+
+
+## [0.0.4] - TODO: update README.md
 * add an example
